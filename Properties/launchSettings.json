@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iis": {
-      "applicationUrl": "http://localhost/CityGasWebApi",
+      "applicationUrl": "http://localhost/SingleWellWebApi",
       "sslPort": 0
     },
     "iisExpress": {
@@ -22,7 +22,7 @@
       },
       "nativeDebugging": true
     },
-    "CityGasWebApi": {
+    "SingleWellWebApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

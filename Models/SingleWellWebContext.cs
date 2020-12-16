@@ -1,8 +1,8 @@
-﻿using CityGasWebApi.Models.BaseInfo;
-using CityGasWebApi.Models.Work;
+﻿using SingleWellWebApi.Models.BaseInfo;
+using SingleWellWebApi.Models.Work;
 using Microsoft.EntityFrameworkCore;
 
-namespace CityGasWebApi.Models
+namespace SingleWellWebApi.Models
 {
     public class SingleWellWebContext : DbContext
     {

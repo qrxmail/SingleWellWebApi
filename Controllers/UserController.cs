@@ -2,14 +2,14 @@
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
-using CityGasWebApi.Models;
+using SingleWellWebApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using CityGasWebApi.Services;
+using SingleWellWebApi.Services;
 
-namespace CityGasWebApi.Controllers
+namespace SingleWellWebApi.Controllers
 {
     [Route("api")]
     [ApiController]

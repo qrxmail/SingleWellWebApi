@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using OilTankHMI.Model;
 using RJCGrpcService;
 
-namespace CityGasWebApi.Controllers.BaseInfo
+namespace SingleWellWebApi.Controllers.BaseInfo
 {
     [Route("api")]
     [ApiController]

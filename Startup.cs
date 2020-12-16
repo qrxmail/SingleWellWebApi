@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using CityGasWebApi.Models;
+using SingleWellWebApi.Models;
 using System;
 using System.Text.Encodings.Web;
 using System.Text.Json;
@@ -12,7 +12,7 @@ using System.Text.Unicode;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.AspNetCore.Http;
 
-namespace CityGasWebApi
+namespace SingleWellWebApi
 {
     public class Startup
     {

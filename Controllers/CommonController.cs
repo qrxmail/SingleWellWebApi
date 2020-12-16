@@ -1,9 +1,9 @@
 ﻿using System.Linq;
-using CityGasWebApi.Models;
-using CityGasWebApi.Services;
+using SingleWellWebApi.Models;
+using SingleWellWebApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CityGasWebApi.Controllers
+namespace SingleWellWebApi.Controllers
 {
     [Route("api/common")]
     [ApiController]
